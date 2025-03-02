@@ -22,7 +22,7 @@ repository               : "cezhang52111/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cezhang.jpg"
+  avatar           : "cezhang icon.jpg"
   name             : "Ce Zhang (张策)"
   pronouns         : # example: "she/her"  
   bio              : "Love learning technology"
