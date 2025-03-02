@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Hong Kong Baptist University, Nov 2023
+* B.S. in Physics, Renmin University of China, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2021 - Oct 2023: Research Assistant
+  * Hong Kong Baptist University
+  * Duties includes: Researching on Blockchain Databases
+  * Supervisor: Prof. XU Jianliang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2023 - Nov 2024: Post-doctoral Research Fellow
+  * Hong Kong Baptist University
+  * Duties included: Researching on Blockchain Databases
+  * Supervisor: Prof. XU Jianliang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2024 - Present: Lecturer
+  * Hong Kong Baptist University
+  * Duties included: Teaching university students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Rust, Python, SQL, Solidity
+* Languanges: English, Mandarin
 
 Publications
 ======
@@ -53,12 +47,21 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of:
+  * Computer Network
+  * IEEE transactions on information forensics and security
+  * IEEE transactions on knowledge and data engineering
+  * IEEE transactions on network science and engineering
+  * IEEE transactions on parallel and distributed systems
+  * IEEE transactions on services computing
+  * Information processing and management
+  * Information Systems
+  * Journal of computer science and technology
